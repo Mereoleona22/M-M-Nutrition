@@ -1,0 +1,10 @@
+.env
+frontend/.env
+backend/.env
+.DS_Store
+node_modules/
+package-lock.json
+**/package-lock.json
+backend/prisma/dev.db
+*.db
+*.db-journal .env.bak
